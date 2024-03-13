@@ -57,4 +57,4 @@ After your PR has been approved and tested by at least one other person, merge y
 -   Communicate with your team members about your progress and any potential conflicts.
 
 ##  
-If you have any questions or encounter issues, don't hesitate to reach out to your mentor or team lead for assistance. Happy coding!
+If you have any questions or encounter issues, don't hesitate to reach out to your faculty mentor or the RISC intern assistant.
