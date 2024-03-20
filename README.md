@@ -28,7 +28,11 @@ git checkout -b feature-branch  # Create a new branch for your feature or bug fi
 ```
 ### Make Changes
 
-Make the necessary changes to the codebase within your feature branch. Ensure your changes are focused and well-tested.
+Make the necessary changes to the codebase within your feature branch. Ensure your changes are focused and well-tested. Then add and commit your changes:
+```bash
+git add .
+git commit -m "[The Commit Message]"
+```
 
 
 ### Push Your Branch
